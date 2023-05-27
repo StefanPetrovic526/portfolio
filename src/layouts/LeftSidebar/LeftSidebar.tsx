@@ -1,6 +1,7 @@
 import React from 'react';
 import './leftSidebar.scss';
 
+
 const LeftSideBar = () => (
   <div className='left'>
     <main className='left__main'>
