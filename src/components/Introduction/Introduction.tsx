@@ -40,7 +40,7 @@ const Introduction = () => {
       </div>
       <div className='intro__right'>
         <div>
-          <img src={MyImage} alt="My Image" />
+          <img src={MyImage} alt="My Image" style={{width: "100%", borderRadius: "50%", borderColor: "white", borderWidth: "3px", outline: '3px solid'}}/>
         </div>
       </div>
     </div>
