@@ -29,7 +29,7 @@ const About = () => {
           {' '}
           Well-organised person, problem solver, focused student at
           {' '}
-          <a href='' target='_blank' rel='noreferrer' className='intro__link'>Megatrend Univerzitet</a>
+          <a href='' target='_blank' rel='noreferrer' className='intro__link'>Megatrend University</a>
           {' '}
           with high attention to detail.
           <br />
